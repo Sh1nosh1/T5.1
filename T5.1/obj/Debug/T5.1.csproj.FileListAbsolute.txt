@@ -1,0 +1,8 @@
+D:\ОАиП\T5.1\bin\Debug\T5.1.exe.config
+D:\ОАиП\T5.1\bin\Debug\T5.1.exe
+D:\ОАиП\T5.1\bin\Debug\T5.1.pdb
+D:\ОАиП\T5.1\obj\Debug\T5.1.csproj.AssemblyReference.cache
+D:\ОАиП\T5.1\obj\Debug\T5.1.csproj.SuggestedBindingRedirects.cache
+D:\ОАиП\T5.1\obj\Debug\T5.1.csproj.CoreCompileInputs.cache
+D:\ОАиП\T5.1\obj\Debug\T5.1.exe
+D:\ОАиП\T5.1\obj\Debug\T5.1.pdb
